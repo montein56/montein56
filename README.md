@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @montein56
-- 👀 I’m interested in web development and joining VBA Excel with Python
+- 👋 Hi, I’m Norman Monteiro
+- 👀 I've built a few websites with Wordpress for charitable groups
 - 🌱 I’m currently learning CSS, HTML, Javascript, Python through Udemy and the Odin Project
-- 💞️ I’m looking to collaborate on VBA Excel/Python
+- 💞️ I’m looking to become proficient in full stack development
 
 <!---
 montein56/montein56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
